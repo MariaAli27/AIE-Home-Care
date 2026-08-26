@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Limpieza de sala",
+    "descripcion": "Limpieza y organización de áreas sociales.",
+    "imagen": "assets/img/sala.jpeg"
+  },
+  {
+    "id": 2,
+    "titulo": "Limpieza de cocina",
+    "descripcion": "Limpieza de superficies y áreas de preparación.",
+    "imagen": "assets/img/limpiezaprofunda.jpeg"
+  },
+  {
+    "id": 3,
+    "titulo": "Limpieza de baño",
+    "descripcion": "Desinfección y limpieza de baños.",
+    "imagen": "assets/img/ba;o2.jpeg"
+  },
+  {
+    "id": 4,
+    "titulo": "Limpieza de habitación",
+    "descripcion": "Orden y limpieza de dormitorios.",
+    "imagen": "assets/img/cuartoprincipal.jpeg"
+  }
+]

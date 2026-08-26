@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Limpieza general",
+    "descripcion": "Limpieza de pisos, muebles, habitaciones y áreas comunes de la vivienda.",
+    "imagen": "assets/img/limpizageneral.jpeg",
+    "icono": "bi-house-check"
+  },
+  {
+    "id": 2,
+    "nombre": "Limpieza profunda",
+    "descripcion": "Atención detallada de superficies, esquinas, puertas y zonas de difícil acceso.",
+    "imagen": "assets/img/limpiezaprofunda2.jpeg",
+    "icono": "bi-stars"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Mantenimiento de jardines",
+    "descripcion": "Limpieza básica, recolección de hojas y cuidado de áreas verdes.",
+    "imagen": "assets/img/jardines.jpeg",
+    "icono": "bi-flower1"
+  },
+  {
+    "id": 4,
+    "nombre": "Arreglos habitacionales",
+    "descripcion": "Pintura exterior e interior, cambio de muebles, cambio de iluminacion, etc...",
+    "imagen": "assets/img/arregloshabitacionales.jpeg",
+    "icono": "bi-calendar-check"
+  },
+   {
+    "id": 5,
+    "nombre": "Remoledaciones",
+    "descripcion": "Remoledaciones a cualquier espacio de la casa",
+    "imagen": "assets/img/remoledacionescollage.jpeg",
+    "icono": "bi-calendar-check"
+  }
+]
